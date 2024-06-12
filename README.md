@@ -15,6 +15,8 @@ https://github.com/DarkInventor/Searchfast/assets/67015517/bac8b585-a70f-4981-8d
 
 ## Getting Started
 
+- Replace NEXT_PUBLIC_OPENAI_API_KEY with your OpenAI Api Key in the env as well as in the main.rs file
+
 ### Prerequisites
 
 - Rust
@@ -31,22 +33,18 @@ https://github.com/DarkInventor/Searchfast/assets/67015517/bac8b585-a70f-4981-8d
 
 2. Install the dependencies:
     ```bash
-    yarn
-    # or
     pnpm install
     ```
 
 3. Start the development server:
     ```bash
-    yarn dev
-    # or
-    pnpm dev
+    pnpm tauri dev
     ```
 
 4. Build the Tauri application:
     ```bash
     cd src-tauri
-    cargo build
+    pnpm build
     ```
 
 ### Usage

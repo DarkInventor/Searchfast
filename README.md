@@ -2,6 +2,8 @@
 
 SearchFast is an innovative search tool designed specifically for macOS, compatible with both Intel and M series chips. Built with a combination of Next.js, Tauri, Rust, and leveraging OpenAI's powerful GPT models through async-openai, it offers a seamless and efficient universal search experience. SearchFast integrates deeply with macOS, providing instant access to information without interrupting your workflow.
 
+https://github.com/DarkInventor/Searchfast/assets/67015517/bac8b585-a70f-4981-8d1f-9e41212c0746
+
 ## Key Features
 
 - **Universal macOS Compatibility**: Runs smoothly on macOS, whether on Intel or M series chips.

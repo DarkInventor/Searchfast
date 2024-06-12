@@ -17,6 +17,7 @@ SearchFast is an innovative search tool designed specifically for macOS, compati
 
 - Rust
 - Tauri prerequisites for macOS
+- Next.js
 
 ### Installation
 
